@@ -1,3 +1,0 @@
-package aaaaaaaa
-
-func ReadSentence () {
