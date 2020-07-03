@@ -11,7 +11,7 @@ import (
 type Sentence []byte
 
 
-func Sentence_New () (*Sentence) {
+func sentence_New () (*Sentence) {
 	return &Sentence {}
 }
 

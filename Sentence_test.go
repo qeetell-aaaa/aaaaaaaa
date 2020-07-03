@@ -6,7 +6,7 @@ import (
 )
 
 func TestSentence (t *testing.T) {
-	sent := *Sentence_New ()
+	sent := *sentence_New ()
 	fmt.Println ("a:", string (sent.Sentence ()))
 	
 	sent.add (byte ('h'))
